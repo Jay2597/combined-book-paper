@@ -1,0 +1,16 @@
+{
+  "status": "open",
+  "entry_date": "2026-07-29",
+  "expiry": "2026-08-25",
+  "index": "NIFTY",
+  "lot": 65,
+  "sp": 23650.0,
+  "sc": 24850.0,
+  "lp": 23350.0,
+  "lc": 25150.0,
+  "credit": 89.4,
+  "stop_mult": 1.5,
+  "realized_pts": null,
+  "exit_date": null,
+  "exit_reason": null
+}
